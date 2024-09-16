@@ -1018,11 +1018,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MACHENIKE\\Desktop\\MDK Luk\\TestProject1\\Testi.csproj",
+      "projectUniqueName": "C:\\Users\\MACHENIKE\\Desktop\\testitgrihrytiogj-main\\MDK Luk\\TestProject1\\Testi.csproj",
       "projectName": "Testi",
-      "projectPath": "C:\\Users\\MACHENIKE\\Desktop\\MDK Luk\\TestProject1\\Testi.csproj",
+      "projectPath": "C:\\Users\\MACHENIKE\\Desktop\\testitgrihrytiogj-main\\MDK Luk\\TestProject1\\Testi.csproj",
       "packagesPath": "C:\\Users\\MACHENIKE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MACHENIKE\\Desktop\\MDK Luk\\TestProject1\\obj\\",
+      "outputPath": "C:\\Users\\MACHENIKE\\Desktop\\testitgrihrytiogj-main\\MDK Luk\\TestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MACHENIKE\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1040,8 +1040,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\MACHENIKE\\Desktop\\MDK Luk\\ConsoleApp2\\Parolchekaem.csproj": {
-              "projectPath": "C:\\Users\\MACHENIKE\\Desktop\\MDK Luk\\ConsoleApp2\\Parolchekaem.csproj"
+            "C:\\Users\\MACHENIKE\\Desktop\\testitgrihrytiogj-main\\MDK Luk\\ConsoleApp2\\Parolchekaem.csproj": {
+              "projectPath": "C:\\Users\\MACHENIKE\\Desktop\\testitgrihrytiogj-main\\MDK Luk\\ConsoleApp2\\Parolchekaem.csproj"
             }
           }
         }

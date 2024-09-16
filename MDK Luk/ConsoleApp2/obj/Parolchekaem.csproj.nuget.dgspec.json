@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MACHENIKE\\Desktop\\MDK Luk\\ConsoleApp2\\Parolchekaem.csproj": {}
+    "C:\\Users\\MACHENIKE\\Desktop\\testitgrihrytiogj-main\\MDK Luk\\ConsoleApp2\\Parolchekaem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MACHENIKE\\Desktop\\MDK Luk\\ConsoleApp2\\Parolchekaem.csproj": {
+    "C:\\Users\\MACHENIKE\\Desktop\\testitgrihrytiogj-main\\MDK Luk\\ConsoleApp2\\Parolchekaem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MACHENIKE\\Desktop\\MDK Luk\\ConsoleApp2\\Parolchekaem.csproj",
+        "projectUniqueName": "C:\\Users\\MACHENIKE\\Desktop\\testitgrihrytiogj-main\\MDK Luk\\ConsoleApp2\\Parolchekaem.csproj",
         "projectName": "Parolchekaem",
-        "projectPath": "C:\\Users\\MACHENIKE\\Desktop\\MDK Luk\\ConsoleApp2\\Parolchekaem.csproj",
+        "projectPath": "C:\\Users\\MACHENIKE\\Desktop\\testitgrihrytiogj-main\\MDK Luk\\ConsoleApp2\\Parolchekaem.csproj",
         "packagesPath": "C:\\Users\\MACHENIKE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MACHENIKE\\Desktop\\MDK Luk\\ConsoleApp2\\obj\\",
+        "outputPath": "C:\\Users\\MACHENIKE\\Desktop\\testitgrihrytiogj-main\\MDK Luk\\ConsoleApp2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MACHENIKE\\AppData\\Roaming\\NuGet\\NuGet.Config",

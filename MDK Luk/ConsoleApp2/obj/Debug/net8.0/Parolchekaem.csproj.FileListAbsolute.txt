@@ -26,3 +26,17 @@ C:\Users\MACHENIKE\Desktop\MDK Luk\ConsoleApp2\obj\Debug\net8.0\refint\Parolchek
 C:\Users\MACHENIKE\Desktop\MDK Luk\ConsoleApp2\obj\Debug\net8.0\Parolchekaem.pdb
 C:\Users\MACHENIKE\Desktop\MDK Luk\ConsoleApp2\obj\Debug\net8.0\Parolchekaem.genruntimeconfig.cache
 C:\Users\MACHENIKE\Desktop\MDK Luk\ConsoleApp2\obj\Debug\net8.0\ref\Parolchekaem.dll
+C:\Users\MACHENIKE\Desktop\testitgrihrytiogj-main\MDK Luk\ConsoleApp2\bin\Debug\net8.0\Parolchekaem.exe
+C:\Users\MACHENIKE\Desktop\testitgrihrytiogj-main\MDK Luk\ConsoleApp2\bin\Debug\net8.0\Parolchekaem.deps.json
+C:\Users\MACHENIKE\Desktop\testitgrihrytiogj-main\MDK Luk\ConsoleApp2\bin\Debug\net8.0\Parolchekaem.runtimeconfig.json
+C:\Users\MACHENIKE\Desktop\testitgrihrytiogj-main\MDK Luk\ConsoleApp2\bin\Debug\net8.0\Parolchekaem.dll
+C:\Users\MACHENIKE\Desktop\testitgrihrytiogj-main\MDK Luk\ConsoleApp2\bin\Debug\net8.0\Parolchekaem.pdb
+C:\Users\MACHENIKE\Desktop\testitgrihrytiogj-main\MDK Luk\ConsoleApp2\obj\Debug\net8.0\Parolchekaem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MACHENIKE\Desktop\testitgrihrytiogj-main\MDK Luk\ConsoleApp2\obj\Debug\net8.0\Parolchekaem.AssemblyInfoInputs.cache
+C:\Users\MACHENIKE\Desktop\testitgrihrytiogj-main\MDK Luk\ConsoleApp2\obj\Debug\net8.0\Parolchekaem.AssemblyInfo.cs
+C:\Users\MACHENIKE\Desktop\testitgrihrytiogj-main\MDK Luk\ConsoleApp2\obj\Debug\net8.0\Parolchekaem.csproj.CoreCompileInputs.cache
+C:\Users\MACHENIKE\Desktop\testitgrihrytiogj-main\MDK Luk\ConsoleApp2\obj\Debug\net8.0\Parolchekaem.dll
+C:\Users\MACHENIKE\Desktop\testitgrihrytiogj-main\MDK Luk\ConsoleApp2\obj\Debug\net8.0\refint\Parolchekaem.dll
+C:\Users\MACHENIKE\Desktop\testitgrihrytiogj-main\MDK Luk\ConsoleApp2\obj\Debug\net8.0\Parolchekaem.pdb
+C:\Users\MACHENIKE\Desktop\testitgrihrytiogj-main\MDK Luk\ConsoleApp2\obj\Debug\net8.0\Parolchekaem.genruntimeconfig.cache
+C:\Users\MACHENIKE\Desktop\testitgrihrytiogj-main\MDK Luk\ConsoleApp2\obj\Debug\net8.0\ref\Parolchekaem.dll

@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MACHENIKE\\Desktop\\MDK Luk\\",
+  "WorkspaceRootPath": "C:\\Users\\MACHENIKE\\Desktop\\testitgrihrytiogj-main\\MDK Luk\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BCC9696B-229F-4F33-B63B-7775C8D2D62E}|TestProject1\\Testi.csproj|c:\\users\\machenike\\desktop\\mdk luk\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BCC9696B-229F-4F33-B63B-7775C8D2D62E}|TestProject1\\Testi.csproj|c:\\users\\machenike\\desktop\\testitgrihrytiogj-main\\mdk luk\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BCC9696B-229F-4F33-B63B-7775C8D2D62E}|TestProject1\\Testi.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31F30FDA-BD5F-4E3E-933F-21B8121D119E}|ConsoleApp2\\Parolchekaem.csproj|c:\\users\\machenike\\desktop\\mdk luk\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{31F30FDA-BD5F-4E3E-933F-21B8121D119E}|ConsoleApp2\\Parolchekaem.csproj|c:\\users\\machenike\\desktop\\testitgrihrytiogj-main\\mdk luk\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31F30FDA-BD5F-4E3E-933F-21B8121D119E}|ConsoleApp2\\Parolchekaem.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F30FDA-BD5F-4E3E-933F-21B8121D119E}|ConsoleApp2\\Parolchekaem.csproj|c:\\users\\machenike\\desktop\\testitgrihrytiogj-main\\mdk luk\\consoleapp2\\parolchekaem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{31F30FDA-BD5F-4E3E-933F-21B8121D119E}|ConsoleApp2\\Parolchekaem.csproj|solutionrelative:consoleapp2\\parolchekaem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,15 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
               "$type": "Bookmark",
@@ -46,29 +46,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\MACHENIKE\\Desktop\\MDK Luk\\TestProject1\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\MACHENIKE\\Desktop\\MDK Luk\\TestProject1\\UnitTest1.cs",
-              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T11:16:02.627Z",
+              "DocumentIndex": 2,
+              "Title": "Parolchekaem",
+              "DocumentMoniker": "C:\\Users\\MACHENIKE\\Desktop\\testitgrihrytiogj-main\\MDK Luk\\ConsoleApp2\\Parolchekaem.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Parolchekaem.csproj",
+              "ToolTip": "C:\\Users\\MACHENIKE\\Desktop\\testitgrihrytiogj-main\\MDK Luk\\ConsoleApp2\\Parolchekaem.csproj",
+              "RelativeToolTip": "ConsoleApp2\\Parolchekaem.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-16T11:06:55.276Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MACHENIKE\\Desktop\\MDK Luk\\ConsoleApp2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\MACHENIKE\\Desktop\\testitgrihrytiogj-main\\MDK Luk\\ConsoleApp2\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
-              "ToolTip": "C:\\Users\\MACHENIKE\\Desktop\\MDK Luk\\ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\MACHENIKE\\Desktop\\testitgrihrytiogj-main\\MDK Luk\\ConsoleApp2\\Program.cs",
               "RelativeToolTip": "ConsoleApp2\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-14T03:59:10.422Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\MACHENIKE\\Desktop\\testitgrihrytiogj-main\\MDK Luk\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\MACHENIKE\\Desktop\\testitgrihrytiogj-main\\MDK Luk\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwCsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T11:16:02.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         },
